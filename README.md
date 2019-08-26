@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](https://www.kpnvandaag.nl/) and ![Image](src)
 ```
 
+For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
