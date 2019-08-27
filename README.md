@@ -23,10 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.kpnvandaag.nl/) and ![Image](src)
+[Link-KPN](https://www.kpnvandaag.nl/) and ![Image](src)
 ```
 
-For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by Steven
+For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
