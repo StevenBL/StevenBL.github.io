@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link-KPN](https://www.kpnvandaag.nl/) and ![Image](src)
 ```
 
-For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL now with desktop interface and Sublime Text editor + tweede keer (web). Dan pull in desktop en met sublime editor dit erbij en commit naar master branch daar.
+For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL now with desktop interface and Sublime Text editor + tweede keer (web). Dan pull in desktop en met sublime editor dit erbij en commit naar master branch daar. NU direct naar desktop gegaan vanuit de github site door clone or download knop in te drullen.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
