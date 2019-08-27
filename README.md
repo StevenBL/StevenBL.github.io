@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link-KPN](https://www.kpnvandaag.nl/) and ![Image](src)
 ```
 
-For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL
+For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL now with desktop interface and Sublime Text editor
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
