@@ -29,6 +29,7 @@ Syntax highlighted code block
 For a link as shown above [Link-KPN](https://www.kpnvandaag.nl/) created by StevenBL now with desktop interface and Sublime Text editor + tweede keer (web). Dan pull in desktop en met sublime editor dit erbij en commit naar master branch daar. NU direct naar desktop gegaan vanuit de github site door clone or download knop in te drukken. Verandering, commit local en push local to master op site en OK. Geen pull nodig, wel verversen.
 Nu is het woensdag 28 augustus, de dag van Gronings onzet. Dus even een stukje bij de tekst. Nog een op de 28e.
 En nog een van de desktop only.
+In de desktop gemaakt op 6 september 2019.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
